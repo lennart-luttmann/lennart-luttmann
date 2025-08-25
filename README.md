@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello there
 
-<!--
-**lennart-luttmann/lennart-luttmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer by trait, idiot by choice**
 
-Here are some ideas to get you started:
+Hi, I'm Lennart Luttmann, a 21-year-old software developer from Germany. I began coding as a hobby in 2020 and started my professional career in 2023, beginning an apprenticeship with a small local software development company. I completed the program in 2025 and started studying Computer Science at the *Gottfried Wilhelm Leibniz Universität* in Hannover the same year, where I am currently pursuing a Bachelor of Science. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have varying levels of experience with the following languages and frameworks:
+
+- Python
+- PyTorch
+- Flask
+- C
+- C#
+- TypeScript
+- React
+
+My primary interests lie in UI/UX design, systems-level programming, and AI research & development.
